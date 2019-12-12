@@ -40,7 +40,7 @@
 @snapend
 
 @snapend[midpoint span-50 text-center]
-➜
+                ➜      
 @snapend
 
 @snap[north-east span-50 text-08]
