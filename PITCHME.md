@@ -19,7 +19,7 @@
 
 ---?image=audience.png
 
-@snap[north-west span-50 text-center]
+@snap[north-west span-50 text-center-left]
 ### @color[orange](**การเขียนหัวเรื่อง**)  
 
 ```md
