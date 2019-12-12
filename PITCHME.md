@@ -5,13 +5,13 @@
 
 @color[orange](ทำไมต้องใช้ Markdown?)
 @snap[south-west span-30 text-06 fragment] @box[rounded text-white box-graphql]
-(<h1> Hello </h1>
-<h2> Hi </h2>
-<ul>
-  <li>Apple</li>
-  <li>Banana</li>
-  <li>Orange</li>
-</ul>) @snapend
+        (<h1> Hello </h1>
+        <h2> Hi </h2>
+        <ul>
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Orange</li>
+        </ul>) @snapend
 
 @snap[south span-30 text-06 fragment] @box[rounded text-white box-graphql](Step 2.#Ask for what you want.) @snapend
 
