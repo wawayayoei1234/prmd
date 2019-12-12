@@ -40,7 +40,7 @@
 @snapend
 
 @snapend[midpoint span-50 text-center]
-![mig](https://img2.thaipng.com/20181202/bil/kisspng-arrow-computer-icons-clip-art-vector-graphics-comp-arrow-right-forward-svg-png-icon-free-download-5-5c045e463986b7.5030286615437901502357.jpg)                
+![mig](pig/gg)                
 @snapend
 
 @snap[north-east span-50 text-08]
